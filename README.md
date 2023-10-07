@@ -1,21 +1,23 @@
 # VapeFix (vFix)
-This ""Fixes"" Vape V4.10 Cracked By [Decencies](https://www.youtube.com/@decencies)
+**This ""Fixes"" Vape V4.10 Cracked By [Decencies](https://www.youtube.com/@decencies)**
 
-Shoutout [Haiers](https://www.youtube.com/@Haiers) For Showing This Fix
-Watch [Haiers Youtube Video](https://www.youtube.com/watch?v=O_73HshPvmA)
+**[Download Exe](https://github.com/La-wea-cosmica/VapeFix/releases/latest)**
 
+**Shoutout [Haiers](https://www.youtube.com/@Haiers) For Showing This Fix**
+
+**Watch [Haiers Youtube Video](https://www.youtube.com/watch?v=O_73HshPvmA)**
 
 # How To Use It?
 1 Join to the server you wanna cheat on
 
-2 run the script/exe
+2 Run the script/exe
 
-3 inject vape
+3 Inject vape
 
-4 thats it!
+4 Thats it!
 
 # How It Works??
-it just change your date time to october 2 of 2022 if you dont get it watch this [Haiers Youtube Video](https://www.youtube.com/watch?v=O_73HshPvmA) he shows what this script does but without the script
+It just change your date time to october 2 of 2022 if you dont get it watch this [Haiers Youtube Video](https://www.youtube.com/watch?v=O_73HshPvmA) he shows what this script does but without the script
 (ngl i made this for dont be opening the config every 2s)
 
 ## Advantages
@@ -29,3 +31,10 @@ it just change your date time to october 2 of 2022 if you dont get it watch this
   * ^^^ By Doing this all your keybinds will be changed to RShift and the TextGui will be Glitchy/Broken (so remember your keybinds say goodbye to the TextGui)
 # Is It Worth It??
 if you are gonna cheat on 1 single server and you dont care about some programs dont working like spotify ill say yessir
+
+# How to Buid it?
+1 you need to have python installed
+2 do pip install ntplib datetime console
+3 do a pip install nuitka
+4 run the compile.bat
+5 wait and booom you have vfix.exe
