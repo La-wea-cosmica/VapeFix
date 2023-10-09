@@ -34,7 +34,11 @@ if you are gonna cheat on 1 single server and you dont care about some programs 
 
 # How to Buid it?
 1 you need to have python installed
+
 2 do pip install ntplib datetime console
+
 3 do a pip install nuitka
+
 4 run the compile.bat
+
 5 wait and booom you have vfix.exe
