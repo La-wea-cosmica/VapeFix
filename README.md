@@ -32,7 +32,7 @@ It just change your date time to october 2 of 2022 if you dont get it watch this
 # Is It Worth It??
 if you are gonna cheat on 1 single server and you dont care about some programs dont working like spotify ill say yessir
 
-# How to Buid it?
+# How to Build it?
 1 you need to have python installed
 
 2 do pip install ntplib datetime console
