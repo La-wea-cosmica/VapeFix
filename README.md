@@ -18,11 +18,11 @@
 
 # How It Works??
 It just change your date time to october 2 of 2022 if you dont get it watch this [Haiers Youtube Video](https://www.youtube.com/watch?v=O_73HshPvmA) he shows what this script does but without the script
-(ngl i made this for dont be opening the config every 2s)
+(ngl i made just cuz i dont wanna be changing my date every single time)
 
 ## Advantages
-  * Fps On Gui gets Fixed (5/6 fps on gui)
-  * RShift Glitch gets Fixed (Everything keybinds to RShift)
+  * Fps On Gui gets Fixed (No More 5/6 fps on gui)
+  * RShift Glitch gets Fixed (No More Keybinds set to RShift)
 
 ## Disadvantages
   * Some programs may not work by the date change (in my case spotify and my browser dont work)
